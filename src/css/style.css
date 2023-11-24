@@ -1,0 +1,51 @@
+body {
+    font-family: 'montserrat',sans-serif;
+}
+
+.hero {
+    background-image: url(/assets/img/Andre-Widya.jpg);
+    background-size:cover;
+    min-height: 100vh;
+}
+
+.hero h4 {
+    font-size: 1rem;
+    
+}
+
+.hero h1 {
+    font-family: 'midnight', sans-serif;
+    font-size: 3.8rem;     
+}
+
+.hero h5 {
+    font-family: 'montserrat', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.hero p {
+    margin-top: 18rem;
+    font-weight: 700;
+    text-shadow: 1px 1px 10px #000;
+    font-family: 'tangerine', cursive;
+    font-size: 2rem;
+}
+
+.hero .tamu {
+    font-family: 'tangerine', curisve;
+    font-size: 4rem;
+    text-shadow: 1px 1px 10px #000;
+}
+
+.hero .btn {
+    color: #fff;
+    background-color: #a9a9a94e;
+    backdrop-filter: blur(5px);
+    border-radius: 20px;
+    font-weight: 500;
+}
+
+.hero .btn:hover {
+    background-color: #a9a9a9d3;
+}
